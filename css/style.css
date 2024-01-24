@@ -1,0 +1,26 @@
+body{
+    font-family: "Manrope", sans-serif;
+}
+
+.manue-items li:hover{
+    background-color: transparent !important;
+    color: #FF4240;
+}
+
+hr{
+    border: 1px dashed #13131833;
+}
+.selection-item-one{
+    background-image: linear-gradient(0deg, #070211 0%, rgba(7, 2, 17, 0.5) 50%),
+    url('../img/2.png');
+}
+
+.selection-item-two{
+    background-image: linear-gradient(0deg, #070211 0%, rgba(7, 2, 17, 0.5) 50%),
+    url('../img/3.png');
+}
+
+.selection-item-three{
+    background-image: linear-gradient(0deg, #070211 0%, rgba(7, 2, 17, 0.5) 50%),
+    url('../img/4.png');
+}
